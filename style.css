@@ -1,0 +1,12 @@
+:root, html {
+  --color-primary: red;
+  --color-secondary: blue;
+}
+
+.ds-button.primary {
+  color: var(--color-primary);
+}
+
+.ds-button.secondary {
+  color: var(--color-secondary);
+}

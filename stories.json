@@ -1,0 +1,1 @@
+{"v":3,"stories":{"button--first-story":{"id":"button--first-story","title":"Button","name":"First Story","importPath":"./src/components/button/Button.stories.js"},"button--second-story":{"id":"button--second-story","title":"Button","name":"Second Story","importPath":"./src/components/button/Button.stories.js"}}}
